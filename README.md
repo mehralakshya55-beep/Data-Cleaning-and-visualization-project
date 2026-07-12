@@ -1,0 +1,2 @@
+# Data-Cleaning-and-visualization-project
+Worked on a raw dataset from kaggle to clean, process, and visualize insights.  Key Features: Handle missing values, outliers, and duplicates Used Python libraries like Pandas, Matplotlib, or Seaborn Created dashboards or visual reports of key findings Expected Outcome: Learned data preprocessing, visualization, and storytelling with data . 
