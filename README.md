@@ -1,2 +1,42 @@
-# Data-Cleaning-and-visualization-project
-Worked on a raw dataset from kaggle of customer personality analysis to clean, process, and visualize insights.  Key Features: Handle missing values, outliers, and duplicates Used Python libraries like Pandas, Matplotlib, or Seaborn Created dashboards or visual reports of key findings Expected Outcome: Learned data preprocessing, visualization, and storytelling with data . 
+# Data Cleaning & Visualization Project
+
+## Overview
+
+This project demonstrates the complete data analysis workflow using Python.
+
+The project includes:
+
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Outlier Detection
+- Outlier Removal
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Creation
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Visualizations
+
+- Sales by Category
+- Monthly Sales Trend
+- Top Products
+- Correlation Heatmap
+- Dashboard
+
+## Learning Outcomes
+
+- Data preprocessing
+- Handling real-world datasets
+- Exploratory Data Analysis
+- Data storytelling
+- Creating professional visualizations
+
